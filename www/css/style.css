@@ -1,0 +1,23 @@
+/* Empty. Add your own CSS if you like */
+/*
+select
+  {
+    cursor:pointer;
+    background-color: transparent;
+    border: 1px #00E5FF solid;
+    color: rgb(18, 163, 179);
+    border-radius: 5%;
+    width:30%;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top: 10px;
+    margin-bottom: 8px;
+    padding:12px;
+    text-align:center;
+    text-decoration:none;
+    cursor:pointer;
+    font-size: 13px;
+     transition:background .4s;
+    -webkit-transition:background .4s;
+  }
+*/
